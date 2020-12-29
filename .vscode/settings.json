@@ -1,0 +1,7 @@
+{
+    "emeraldwalk.runonsave": {
+    "commands": [
+        {"cmd": "robocopy .\\ChatWindowManager A:\\ChatWindowManager /mir"}
+    ]
+    }
+}
